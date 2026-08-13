@@ -1,6 +1,6 @@
-package Lista1;
+package Lista2;
 
-public class Exercicio10 {
+public class Exercicio1 {
 
 	public static void main(String[] args) {
 		

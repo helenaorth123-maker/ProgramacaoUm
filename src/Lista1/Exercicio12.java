@@ -1,4 +1,4 @@
-package Atividades;
+package Lista1
 
 public class Exercicio12 {
 

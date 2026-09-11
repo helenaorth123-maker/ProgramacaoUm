@@ -8,7 +8,7 @@ public class Exercicio5 {
 
         Scanner leia = new Scanner(System.in);
 		
-		while(5<=num);
+		while();
 
 	}
 

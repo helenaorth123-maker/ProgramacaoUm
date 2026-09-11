@@ -1,0 +1,19 @@
+package Lista2;
+
+public class Exercicio10 {
+
+	public static void main(String[] args) {
+		
+       int total= 23;
+        int grupos = 5;
+
+        
+        int divInt = total / grupos;
+        System.out.println("Quantidade inteira: " + divInt);
+
+        double divF = (double) total / grupos;
+        System.out.println("Divisão em ponto flutuante: " + divF);
+
+	}
+
+}
